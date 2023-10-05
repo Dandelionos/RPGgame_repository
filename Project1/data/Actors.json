@@ -1,0 +1,16 @@
+[
+null,
+{"id":1,"battlerName":"Actor1_1","characterIndex":0,"characterName":"Actor1","classId":1,"equips":[1,1,2,3,0],"faceIndex":0,"faceName":"Actor1","traits":[],"initialLevel":1,"maxLevel":99,"name":"Harold","nickname":"","note":"","profile":""},
+{"id":2,"battlerName":"","characterIndex":6,"characterName":"People4","classId":1,"equips":[0,0,0,0,0],"faceIndex":6,"faceName":"People4","traits":[],"initialLevel":1,"maxLevel":1,"name":"Virgil","nickname":"","note":"","profile":""},
+{"id":3,"battlerName":"","characterIndex":0,"characterName":"","classId":1,"equips":[0,0,0,0,0],"faceIndex":0,"faceName":"","traits":[],"initialLevel":1,"maxLevel":99,"name":"START","nickname":"","note":"","profile":""},
+{"id":4,"battlerName":"","characterIndex":0,"characterName":"male","classId":1,"equips":[0,0,0,0,0],"faceIndex":0,"faceName":"male","traits":[],"initialLevel":1,"maxLevel":99,"name":"Male","nickname":"","note":"","profile":""},
+{"id":5,"battlerName":"","characterIndex":0,"characterName":"female","classId":1,"equips":[0,0,0,0,0],"faceIndex":0,"faceName":"female","traits":[],"initialLevel":1,"maxLevel":99,"name":"Female","nickname":"","note":"","profile":""},
+{"id":6,"battlerName":"","characterIndex":0,"characterName":"blonde male","classId":1,"equips":[0,0,0,0,0],"faceIndex":0,"faceName":"blonde male","traits":[],"initialLevel":1,"maxLevel":99,"name":"Male Blonde","nickname":"","note":"","profile":""},
+{"id":7,"battlerName":"","characterIndex":0,"characterName":"dark male","classId":1,"equips":[0,0,0,0,0],"faceIndex":0,"faceName":"dark male","traits":[],"initialLevel":1,"maxLevel":99,"name":"Male Dark","nickname":"","note":"","profile":""},
+{"id":8,"battlerName":"","characterIndex":0,"characterName":"brown male","classId":1,"equips":[0,0,0,0,0],"faceIndex":0,"faceName":"brown male","traits":[],"initialLevel":1,"maxLevel":99,"name":"Male Brown","nickname":"","note":"","profile":""},
+{"id":9,"battlerName":"","characterIndex":0,"characterName":"red male","classId":1,"equips":[0,0,0,0,0],"faceIndex":0,"faceName":"red male","traits":[],"initialLevel":1,"maxLevel":99,"name":"Male Red","nickname":"","note":"","profile":""},
+{"id":10,"battlerName":"","characterIndex":0,"characterName":"blonde female","classId":1,"equips":[0,0,0,0,0],"faceIndex":0,"faceName":"blonde female","traits":[],"initialLevel":1,"maxLevel":99,"name":"Female Blonde","nickname":"","note":"","profile":""},
+{"id":11,"battlerName":"","characterIndex":0,"characterName":"dark female","classId":1,"equips":[0,0,0,0,0],"faceIndex":0,"faceName":"dark female","traits":[],"initialLevel":1,"maxLevel":99,"name":"Female Dark","nickname":"","note":"","profile":""},
+{"id":12,"battlerName":"","characterIndex":0,"characterName":"brown female","classId":1,"equips":[0,0,0,0,0],"faceIndex":0,"faceName":"brown female","traits":[],"initialLevel":1,"maxLevel":99,"name":"Female Brown","nickname":"","note":"","profile":""},
+{"id":13,"battlerName":"","characterIndex":0,"characterName":"red female","classId":1,"equips":[0,0,0,0,0],"faceIndex":0,"faceName":"red female","traits":[],"initialLevel":1,"maxLevel":99,"name":"Female Red","nickname":"","note":"","profile":""}
+]
